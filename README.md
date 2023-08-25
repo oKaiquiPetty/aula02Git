@@ -1,2 +1,2 @@
-# aula02Git
+## aula02Git
 # PRIMEIRA AULA COM COMANDOS 
